@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Eduardo Santos <br><br>- 📚 I'm currently learning Data Cience</p>
+<p align="left">I'm Eduardo Santos <br><br>- 📚 I'm currently learning Data Science</p>
 
 ###
 
